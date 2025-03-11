@@ -6,7 +6,7 @@ Faço curso de Desenvolvedor Full Stack Phyton e JavaScript na EBAC
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypesena&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypesena&show_icons=true&theme=dark)
 
 ### Linguagens utilizadas
 
