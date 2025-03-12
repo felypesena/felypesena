@@ -1,14 +1,14 @@
 ### Olá 👋
 
 
-###### Sobre o Felype
+# Sobre o Felype
 Faço curso de Desenvolvedor Full Stack Phyton e JavaScript na EBAC
 
-### Detalhes
+## Detalhes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypesena&show_icons=true&theme=radical)
 
-### Linguagens utilizadas
+## Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felypesena&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
